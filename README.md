@@ -1,2 +1,2 @@
-# eda_vivino_dataset
-Exploratory Data Analysis for wine datasets from vivino.com
+# Wine rating and price: spotting patterns and insights
+Exploratory Data Analysis for wine datasets; Data source: vivino.com
